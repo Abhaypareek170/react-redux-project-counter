@@ -21,3 +21,10 @@
   margin: 2rem 0;
   font-weight: bold;
 }
+.button{
+  display: flex;
+  justify-content: space-between;
+}
+.toggle{
+  margin-top: 20px;
+}
